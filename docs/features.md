@@ -1,89 +1,86 @@
-# Features
+# JobShield AI - Features
 
-# Core Features
+## Core Features
 
-## 1. Analyze Job Description
+### 1. Job Description Analysis
+- Users can paste a job description.
+- AI analyzes the text for scam indicators.
+- Generates a Trust Score.
 
-Users can paste a job description.
+---
 
-The AI analyzes it and identifies scam indicators.
+### 2. Screenshot Analysis
+- Users can upload screenshots of:
+  - Job posts
+  - WhatsApp chats
+  - Emails
+  - LinkedIn messages
+- AI extracts text and analyzes it.
 
------------------------------------
+---
 
-## 2. Upload Screenshot
+### 3. AI Trust Score
+- Displays a score from 0–100.
+- Higher score means the job appears more trustworthy.
 
-Users can upload screenshots of job posts, WhatsApp chats, emails, or LinkedIn messages.
+---
 
-The AI extracts the content and analyzes it.
+### 4. Risk Level Detection
+AI classifies the job as:
+- 🟢 Safe
+- 🟡 Needs Verification
+- 🔴 High Risk
 
------------------------------------
+---
 
-## 3. AI Trust Score
+### 5. Scam Evidence Report
+Shows why the AI marked the job as risky.
 
-The AI gives every job a trust score from 0–100.
+Examples:
+- Registration fee detected
+- Gmail address used
+- Unrealistic salary
+- No interview process
+
+---
+
+### 6. Questions to Ask HR
+AI suggests questions the user should ask before accepting the job offer.
 
 Example:
+- Can you share the official careers page?
+- Why is a registration fee required?
+- Will there be an interview?
 
-85/100
+---
 
------------------------------------
+### 7. Safety Advice
+Provides recommendations to the user.
 
-## 4. Risk Level
+Example:
+- Do not pay money.
+- Verify the company website.
+- Contact official HR.
 
-The AI classifies the job as
+---
 
-🟢 Safe
+### 8. Scam Learning Center (Unique Feature)
+AI identifies the scam category and explains it.
 
-🟡 Needs Verification
+Examples:
+- Advance Fee Scam
+- Fake Recruiter Scam
+- Phishing Job Scam
+- Fake Internship Scam
 
-🔴 High Risk
+This helps users understand different recruitment scams.
 
------------------------------------
+---
 
-## 5. Evidence Report
+## Future Scope
 
-Instead of simply saying "Fake",
-
-the AI explains WHY.
-
-Example
-
-• Registration Fee Found
-
-• Gmail Used
-
-• No Interview
-
------------------------------------
-
-## 6. Questions to Ask HR
-
-The AI generates three questions that the user should ask the recruiter before trusting the offer.
-
------------------------------------
-
-## 7. Safety Advice
-
-The AI suggests what the user should do next.
-
-Example
-
-Do not pay money.
-
-Verify company website.
-
-Contact official HR.
-
------------------------------------
-
-# Future Features
-
-• Browser Extension
-
-• LinkedIn Verification
-
-• Mobile Application
-
-• Multi-language Support
-
-• Email Verification
+- Browser Extension
+- Mobile Application
+- LinkedIn Verification
+- Email Verification
+- Multi-language Support
